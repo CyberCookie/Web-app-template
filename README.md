@@ -19,15 +19,15 @@ Install PgAdmin for better expirience.<br />
 Use `test_user_pg` user to connect to PG.<br />
 Create `test_db` database.<br />
 Create `person` table with the only `string` column `name`.<br />
-All the above params, like user or database are configurable in `src/bin/main`.<br /><br />
-Start a postgresql server.<br />
+All the above params, like user or database are configurable in `src/bin/main`.<br />
+Start a postgresql server.<br /><br /><br />
 
 
 ### Server
 Install Rust on your system.<br />
-To start the server - from the root dir run `cargo run`.<br /><br />
+To start the server - from the root dir run `cargo run`.<br /><br /><br />
 
 ### Client
 
 Install `siegel` package globally: `npm i -g siegel`.<br />
-To start a demo client - from the root dir run `siegel run -g --client client.js`. <br />
+To start a demo client - from the root dir run `siegel run -g --client client.js`.
